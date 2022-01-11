@@ -10,3 +10,11 @@ Nesse primeiro passo está acontecendo a inserção dos dados de forma manual, f
    <img src="./assets/Inserindo dados de forma manual_2.PNG">
 </div>
 
+### Passo 2 - Input de um arquivo .TXT
+Nesse passo temos a leitura de um arquivo .TXT, onde podemos fazer também todas as alterações do contexto de leitura, se o arquivo tem ou não um cabeçalho, se o formato dele pode ser em DOS, Unix ou um formato misto e por fim também podemos configurar as características dos dados que serão lidos.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/input TXT_1.PNG">
+   <img src="./assets/input TXT_2.PNG">
+   <img src="./assets/input TXT_3.PNG">
+   
+</div>
