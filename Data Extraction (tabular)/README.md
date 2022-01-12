@@ -33,6 +33,26 @@ Neste 3 passo, faremos a inserção de vários arquivos de dados ao mesmo tempo,
 </div>
 
 ---
+### Passo 4 - Input com arquivos Excel
+Neste passo, temos a configuração para a leitura de arquivos .xlsx.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/input file Excel_1.PNG" width="49%">
+   <img src="./assets/input file Excel_2.PNG" width="49%">
+   <img src="./assets/input file Excel_3.PNG" width="49%">
+</div>
+
+
+---
+### Passo 5 - Input com arquivos zipados
+No último passo, temos a leitura de em arquivo que está com o formato zipado.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/input zip file_1.PNG" width="49%">
+   <img src="./assets/input zip file_2.PNG" width="49%">
+   <img src="./assets/input zip file_3.PNG" width="49%">
+</div>
+
+
+---
 <h4 align="center">
     Feito com :blue_heart: por Ayrton Cossuol
 </h4>
