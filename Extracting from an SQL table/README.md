@@ -8,7 +8,7 @@ Vamos fazer a criação da tabela com os registros utilizando uma base de dados 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
    <img src="./assets/create_table_SQL_1.PNG" width="49%">
    <img src="./assets/create_table_SQL_2.PNG" width="49%">
-   <img src="./assets/create_table_SQL_3.PNG" width="49%">
+   <img src="./assets/create_table_SQL_3.PNG" width="69%">
 </div>
 
 ---
@@ -17,7 +17,7 @@ Com o Table Input, vamos fazer toda a conexão com o PostgresSQL para capturar o
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
    <img src="./assets/connect_table_1.PNG" width="49%">
    <img src="./assets/connect_table_2.PNG" width="49%">
-   <img src="./assets/connect_table_3.PNG" width="49%">
+   <img src="./assets/connect_table_3.PNG" width="69%">
 </div>
 
 
