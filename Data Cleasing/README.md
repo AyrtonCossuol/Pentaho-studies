@@ -1,6 +1,6 @@
 # Pentaho-studies - Data Cleasing
 
-
+Aqui nesta etapa, vamos trabalhar toda a parte de tratamento dos dados, buscando deixar a base mais limpa possível para que o time de negócio possa utilizá-la sem ter que demandar tempo para devidos tratamentos.
 
 ---
 ### Passo 1 - Mapeando os valores
