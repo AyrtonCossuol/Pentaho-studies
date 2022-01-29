@@ -18,9 +18,18 @@ Agora, vamos verificar alguns valores que estão com algum carácter indesejado,
    <img src="./assets/replace_string_0.PNG" width="49%">
    <img src="./assets/replace_string_1.PNG" width="49%">
    <img src="./assets/replace_string_2.PNG" width="49%">
-
 </div>
 
+---
+### Passo 3 - Fuzzy Match
+Nesse passo 3, vamos utilizar o método de Fuzzy match com um auxílio de outra tabela, para alterar os nomes dos 'State' que vieram escrito de forma errada.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/fuzzy_match_1.PNG" width="49%">
+   <img src="./assets/fuzzy_match_2.PNG" width="49%">
+   <img src="./assets/fuzzy_match_3.PNG" width="49%">
+   <img src="./assets/fuzzy_match_4.PNG" width="49%">
+   <img src="./assets/fuzzy_match_5.PNG" width="49%">
+</div>
 
 ---
 <h4 align="center">
