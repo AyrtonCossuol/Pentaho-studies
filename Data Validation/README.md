@@ -8,7 +8,7 @@ Aqui vamos fazer a transformação da coluna 'Age' para valores inteiros e depoi
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
    <img src="./assets/data validation_1.PNG" width="49%">
    <img src="./assets/data validation_2.PNG" width="49%">
-   <img src="./assets/data validation_3.PNG" width="49%">
+   <img src="./assets/data validation_3.PNG" width="59%">
 </div>
 
 
