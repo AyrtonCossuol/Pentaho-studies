@@ -21,6 +21,21 @@ Agora, vamos fazer toda a parte da conexão com os dados presentes no Postgres.
 </div>
 
 ---
+### Passo 2 - Inserindo e Atualizando Registros
+Aqui, vamos fazer algumas atualizações nos registros já presentes e também uma inclusão de um registro novo.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/updating_1.PNG" width="49%">
+   <img src="./assets/updating_2.PNG" width="49%">
+   <img src="./assets/updating_3.PNG" width="49%">
+   <img src="./assets/updating_4.PNG" width="49%">
+   <img src="./assets/updating_5.PNG" width="49%">
+   <img src="./assets/updating_6.PNG" width="49%">
+   <img src="./assets/updating_7.PNG" width="49%">
+   <img src="./assets/updating_8.PNG" width="49%">
+   
+</div>
+
+---
 <h4 align="center">
     Feito com :blue_heart: por Ayrton Cossuol
 </h4>
