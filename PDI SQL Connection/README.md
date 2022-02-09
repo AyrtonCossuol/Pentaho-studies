@@ -31,9 +31,19 @@ Aqui, vamos fazer algumas atualizações nos registros já presentes e também u
    <img src="./assets/updating_5.PNG" width="49%">
    <img src="./assets/updating_6.PNG" width="49%">
    <img src="./assets/updating_7.PNG" width="49%">
-   <img src="./assets/updating_8.PNG" width="49%">
-   
+   <img src="./assets/updating_8.PNG" width="49%">  
 </div>
+
+---
+### Passo 3 - Deletando registros da tabela no Postgres
+Por fim, vamos mostrar um caso de excluir um registro da tabela.
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
+   <img src="./assets/delete_1.PNG" width="49%">
+   <img src="./assets/delete_2.PNG" width="49%">
+   <img src="./assets/delete_3.PNG" width="49%">
+   <img src="./assets/delete_4.PNG" width="49%">
+</div>
+
 
 ---
 <h4 align="center">
